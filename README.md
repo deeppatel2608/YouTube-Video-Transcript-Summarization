@@ -1,2 +1,1 @@
-"# YouTube-Video-Transcript-Summarization" 
-"# IP-finder" 
+YouTube-Video-Transcript-Summarization
